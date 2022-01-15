@@ -2,4 +2,4 @@
 ### Team Project
 
 * Contributors:
-    * VICHHIKA ROTHTANA & DUONG PECHDANUTH
+    ⮕ VICHHIKA ROTHTANA & DUONG PECHDANUTH
