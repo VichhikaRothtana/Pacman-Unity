@@ -1,6 +1,5 @@
 # Pacman Unity Game Development 
-### Team Project
+## Team Project
 
-* Contributors:
-<br/>
-    ⮕ VICHHIKA ROTHTANA & DUONG PECHDANUTH
+### Contributors:
+VICHHIKA ROTHTANA & DUONG PECHDANUTH
