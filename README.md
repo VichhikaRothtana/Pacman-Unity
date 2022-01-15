@@ -1,6 +1,10 @@
-# Pacman Unity Game Development 
+# Unity Game Development - IT Academy STEP
 <b>Lecturer: </b> Ly Ratana
-## Team Project
+<br/>
+<b>Group: </b> FT SD E 9 Group 
+## Team Project : Pacman
 
-### Contributors:
-VICHHIKA ROTHTANA & DUONG PECHDANUTH
+<b>Contributors: </b> <br/>
+&emsp;&emsp;VICHHIKA ROTHTANA 
+<br/>
+&emsp;&emsp;DUONG PECHDANUTH
